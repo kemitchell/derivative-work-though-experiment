@@ -1,0 +1,8 @@
+{
+  "name": "posssible-derivate",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "underlying": "1.0.0"
+  }
+}
